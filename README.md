@@ -60,6 +60,7 @@ Before running this sample, obtain the source code package.
       - Set the model name to **googlenet**.
       - Set **Input Type** to **FP16** and set the value of **N** in **Input Node: data** to **1**.
       - Disable **Data Preprocessing**
+      
     ![](figures/image1.png "Model conversion 1")  
     ![](figures/image2.png "Model conversion 2")  
     ![](figures/image3.png "Model conversion 3")
