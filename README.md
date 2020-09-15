@@ -84,7 +84,7 @@ Before running this sample, obtain the source code package.
    **vim ~/.bashrc**   
    Append the following two lines:   
    **export LD_LIBRARY_PATH=/home/HwHiAiUser/Ascend/acllib/lib64**  
-   **export PYTHONPATH=/home/HwHiAiUser/Ascend/:\\${PYTHONPATH}**  
+   **export PYTHONPATH=/home/HwHiAiUser/Ascend/:\${PYTHONPATH}**  
    ![](figures/pythonpath1.png)   
    Run the following command for the environment variables to take effect:   
    **source ~/.bashrc**
