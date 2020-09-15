@@ -1,5 +1,3 @@
-English|[中文](README.md)
-
 # Image Object Classification Network Application (Python)
 
 This application can run on the Atlas 200 DK to classify objects in images using the GoogLeNet network and output the top five classes with the highest confidence scores.
