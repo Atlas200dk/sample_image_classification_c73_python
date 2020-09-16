@@ -64,7 +64,7 @@ Before running this sample, obtain the source code package.
     ![](figures/image3.png "Model conversion 3")
 
 4. Save the converted model to the **model** directory in the project file.   
-    **cp ~/modelzoo/googlenet_yuv/device/googlenet.om ~/AscendProjects/sample_image_classification_c73_python/model/**
+    **cp ~/modelzoo/googlenet/device/googlenet.om ~/AscendProjects/sample_image_classification_c73_python/model/**
 
 ## Environment Deployment<a name="zh-cn_topic_0228757083_section1759513564117"></a>
 
