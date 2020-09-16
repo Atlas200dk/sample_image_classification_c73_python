@@ -115,3 +115,5 @@ Before running this sample, obtain the source code package.
    
    **Example:**   
    **scp -r HwHiAiUser@192.168.1.2:/home/HwHiAiUser/HIAI\_PROJECTS/sample_image_classification_c73_python/outputs \~** 
+   
+   Then, you will find the **Result.jpg** in **~/outputs/**
