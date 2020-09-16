@@ -104,7 +104,10 @@ Before running this sample, obtain the source code package.
 
 3. View the result images.
    
-   The result images are stored in the **outputs** folder and can be uploaded to the home directory of the Mind Studio installation user.   
+   The result images are stored in the **outputs** folder and can be uploaded to the home directory of the Mind Studio installation user. 
+   
+   Run the following from Mind Studio installation server.
+   
    **scp -r username@host\_ip:/home/username/HIAI\_PROJECTS/sample_image_classification_c73_python/outputs \~**
    
    - **username**: user name of the developer board, default to **HwHiAiUser**.
