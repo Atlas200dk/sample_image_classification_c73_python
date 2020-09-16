@@ -50,8 +50,6 @@ Before running this sample, obtain the source code package.
     </table>
    
 3. Convert the original model to an offline model adapted to the Ascend AI Processor.
-
-   The original googlenet Caffe model is in folder **sample_image_classification_c73_python/model/**
    
    1. Choose **Tools** \> **Model **Converter**** from the menu bar of Mind Studio.
    2. Configure the model conversion settings in the displayed **Model Converter** dialog box.
